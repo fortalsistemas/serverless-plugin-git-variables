@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = Full User
+	email = full@example.com
+[remote "origin"]
+	url = git@github.com:fortalsistemas/serverless-plugin-git-variables.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
